@@ -159,7 +159,7 @@ p{
 
 @media (min-width: 1280px){
   .main-grid{
-    grid-template-columns: 1fr 1fr 0.9fr; /* Grid */
+    grid-template-columns: 1fr 1fr 0.9fr; 
     gap: var(--s-3);
   }
 
@@ -168,7 +168,7 @@ p{
   #contact{ grid-column: 3 / 4; }
 
   #project ul{
-    grid-template-columns: 1fr 1fr 1fr; /* cards 3-up */
+    grid-template-columns: 1fr 1fr 1fr; 
   }
 }
 
