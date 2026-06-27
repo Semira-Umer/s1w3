@@ -153,7 +153,7 @@ p{
   #contact{ grid-column: 2 / 3; }
 
   #project ul{
-    grid-template-columns: 1fr 1fr; /* cards 2-up */
+    grid-template-columns: 1fr 1fr; 
   }
 }
 
